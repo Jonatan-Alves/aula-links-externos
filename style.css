@@ -10,3 +10,14 @@
 .Instagram{
     color: rgba(165, 12, 170, 0.753);
 }
+p{
+    background-color: rgb(195, 255, 127);
+    margin: 15px;
+    padding: 15px;
+    border: 5px solid 
+}
+
+p{
+    font-style: italic; 
+    font-weight: 800;
+}
